@@ -20,7 +20,7 @@ Also install <a href="https://github.com/MTG/sms-tools" target="_blank">SMS-Tool
 #### Code
 A lot of our code is recycled and modified from our previous project <a href="https://github.com/SubramaniKrishna/VaPar-Synth" target="_blank">VaPar Synth</a>. 
 
-1. [Dependencies](./Data_Loading/README.md): Functions for TAE extraction, PyTorch Dataloading, Sampling from the network etc.
+1. [Dependencies](./Dependencies/README.md): Functions for TAE extraction, PyTorch Dataloading, Sampling from the network etc.
 2. [Parametric](./Parametric/README.md): Obtaining the parametric representation of the audio.
 3. [Network](./Network/README.md): PyTorch code for the various networks. 
 4. [Analysis](./Analysis/README.md): Code to analyze the network outputs (compute MSE/visualize Latent Space with t-SNE)
